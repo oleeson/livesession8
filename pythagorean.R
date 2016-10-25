@@ -11,3 +11,8 @@ hypotenuse <- function(x,y) {
   h <- sqrt(z)
   return(h)
 }
+
+#find area of parallelogram 
+area<- function(x,y) {  a<-(x*y)/2
+return (a)
+}
